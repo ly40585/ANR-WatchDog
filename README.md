@@ -7,7 +7,7 @@ ANR-WatchDog
 
 [![Libtastic](http://www.libtastic.com/static/osbadges/54.png)](http://www.libtastic.com/technology/54/)
 
-A simple watchdog that detects Android ANRs (Application Not Responding).
+一个用于检测Android ANR(Application Not Responding)的简单的看门狗。
 
 
 Why it exists
